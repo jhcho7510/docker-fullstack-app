@@ -20,5 +20,4 @@ after_success:
 
   - docker push jhcho7510/docker-frontend  
   - docker push jhcho7510/docker-backend
-  - docker push jhcho7510/nginx
-  
+  - docker push jhcho7510/nginx  
